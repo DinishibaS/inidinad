@@ -44,10 +44,10 @@
   margin-left: auto;
   margin-right: auto;
 }
-.swiper-button-next {
+.swiper-button-prev {
   color: rgb(243, 180, 22);
 }
-.swiper-button-prev {
+.swiper-button-next {
   color: rgb(243, 180, 22);
 }
 .swiper-slide {
